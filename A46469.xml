@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent speech spoken by His Highness Iames Duke of Yorke to England's renowned generall, His Excellency Sir Thomas Fairfax at the King's Majesties royall conrt [sic] at Causam : together with His Excellencies answer ... : also the chiefe heads of the armies new declaration concerning the king, parliament and kingdome : with a message from the generall to the citizens of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46469</idno>
+            <idno type="STC">Wing J183</idno>
+            <idno type="STC">ESTC R43304</idno>
+            <idno type="EEBO-CITATION">27141595</idno>
+            <idno type="OCLC">ocm 27141595</idno>
+            <idno type="VID">110008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110008)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1721:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent speech spoken by His Highness Iames Duke of Yorke to England's renowned generall, His Excellency Sir Thomas Fairfax at the King's Majesties royall conrt [sic] at Causam : together with His Excellencies answer ... : also the chiefe heads of the armies new declaration concerning the king, parliament and kingdome : with a message from the generall to the citizens of London.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Edward Benington, for the publike use of Great Brittain,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Speech of James not included.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110008:1" rendition="simple:additions"/>
+            <p>AN EXCELLENT SPEECH Spoken by His Highneſſe IAMES DUKE OF YORKE TO ENGLANDS renowned Generall, His Excellency Sir Thomas Fairfax, at the Kings Majeſties Royall Court at Cauſam.</p>
+            <p>TOGETHER, With His Excellencies Anſwer to the ſaid Speech, con<g ref="char:EOLhyphen"/>cerning the Kings Majeſty, and His Royall Posterity.</p>
+            <p>Alſo the chiefe Heads of the Armies new Declara<g ref="char:EOLhyphen"/>tion concerning the King<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament, and Kingdome. With a Meſſage from the Generall to the Citi<g ref="char:EOLhyphen"/>zens of LONDON.</p>
+            <p>Printed at Oxford for Edward Benington, for the publike uſe of Great Brittain, Anno 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110008:2"/>
+            <pb facs="tcp:110008:2"/>
+            <head>THE COPY OF LETTER FROM The Generals Head-quarters at Redding, to the Citizens of London.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THe particulars which I have to re<g ref="char:EOLhyphen"/>preſent unto you at this preſent, are things very remarkable and of great conſe<g ref="char:EOLhyphen"/>quence, being of ripeneſſe and maturity, both for the view of your Metropolis, and the whole Kingdome alſo: Therefore, for ſatiſ<g ref="char:EOLhyphen"/>faction
+<pb facs="tcp:110008:3"/>of your ſelves, and the reſt of your Fellow Commoners, I ſhall here communi<g ref="char:EOLhyphen"/>cate unto you, a Copy of the Generalls De<g ref="char:EOLhyphen"/>claration to the Lord Mayor and Citizens of London; together with another Paper of great conſequence, agreed upon by his Ex<g ref="char:EOLhyphen"/>cellency, and the Councell of Warre, con<g ref="char:EOLhyphen"/>cerning the Free-born Subje&amp;s of this Na<g ref="char:EOLhyphen"/>tion; both which, I ſhall here infer ver<g ref="char:EOLhyphen"/>batim.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A Copy <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> the Declaration ſent from his Excellency Sir Thomas Fairfax, to the Lord Mayor and Citi<g ref="char:EOLhyphen"/>zens of London.</head>
+                        <p>VVHereas in the carying on of the great bu<g ref="char:EOLhyphen"/>ſineſſes of the Kingdome towards a gene<g ref="char:EOLhyphen"/>rall and happy ſettlement, it hath been a ſixed prin<g ref="char:EOLhyphen"/>ciple with us to make it our firſt endeavour with the Parliament, that all things which threaten an En<g ref="char:EOLhyphen"/>gagement of the Kingdome in a ſecond warre, might be removed before we could have a confident expe<g ref="char:EOLhyphen"/>ctation of a good iſſue; upon a Treaty with their Commiſſioners, which courſe of ours, although it might have ſome appearance of delay: yet, by men that are zealous of the Kingdomes good (we hope) no endeavour will be judged unneceſſary, that may ſe<g ref="char:EOLhyphen"/>cure the Kingdome from the danger of any new im<g ref="char:EOLhyphen"/>broylments.</p>
+                        <pb facs="tcp:110008:3"/>
+                        <p> We are now come thus far, that the moſt mate<g ref="char:EOLhyphen"/>riall particulars which we have in preparation to propoſe, for the generall ſettlement of the affaries of the Kingdome, have bin communicated to the Parliaments Commiſſioners; and we hope they are ſatisfied that they containe in them things tending to a generall good, and to lay an hopefull Founda<g ref="char:EOLhyphen"/>tion for common Right, and Freedom, to the peo<g ref="char:EOLhyphen"/>ple of this Land for future; and for a laſting peace amongſt us. But before we can ſecurely intend and without interruption apply our ſelves, unto the proceedings and diſpatch of the Treaty, there upon wee have delivered into the hands of their Comiſſio<g ref="char:EOLhyphen"/>ners, the paper which conſiſts of three particulars, in the laſt whereof (which is the Militia of the City) you being moſt immediatly concerned, to the end you may ſee we would aske nothing which relates to you, without giving you a juſt account thereof, and all poſſible ſatisfaction therein; we have alſo given a Coppy thereof to your Commiſſioners, to be here with ſent unto you. Wee ſhould not deſire this or and thing elſe of that nature were wee per<g ref="char:EOLhyphen"/>ſwaded, that what wee deſire is ſeaſonable, and for yours and the Kingdomes good and quiet. And wee ſhould willingly haue been ſilent (as to this:) but conſidering the juſt jealouſies which lye againſt ſome perſons, now authorized in the exerciſe of that powea amongſt you, and thoſe attempts which have him made by ſome, who would have engaged your city, to a warre, had not your Lordſhips and the court of Aldermen and Commen-Councell
+<pb facs="tcp:110008:4"/>by your wiſdome prevented it, by getting thoſe votes which were paſſed by the Mili<g ref="char:EOLhyphen"/>tia, made null.</p>
+                        <p>We cannot in a caſe of this importance but deal freely with you, in deſiring your con<g ref="char:EOLhyphen"/>currence with ours to the Parliament; that the Militia may bee changed into thoſe hands, out of which it was taken, of whoſe care and fidelity to the Publike, there hath been ſo long and large experience, as few a<g ref="char:EOLhyphen"/>ges have paralleld. And if the intere<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t wee have ſo long fought for be ſtill the ſame, let it not ſeem ſtrange that wee deſire both of the parliament and City, that thoſe may bee in places of ſuch a truſt, who have given the beſt proof of their courage and conſtancy in proſecution of the ſame. Having thus far de<g ref="char:EOLhyphen"/>clared our ſelves with all freedom and clear<g ref="char:EOLhyphen"/>neſſe to you, as we doe not doubt of your good acceptance of our intention therein, ſo we deſire your forwardneſſe in a worke ſo much tending to mutuall confidence: and to prevent the deſignes of any who would bee glad to put obſtructions in the way to a happy concluſion, and envie nothing more
+<pb facs="tcp:110008:4"/>then the continuance of a aight underſtan<g ref="char:EOLhyphen"/>ding between you and us.</p>
+                        <closer>
+                           <dateline>Redding <date>Iuly 18. 1647.</date>
+                           </dateline>
+                           <signed>By the appointment of his Excellencie Sir Thomas Fairfax, and his Councell of Warre. Signed, Iohn Ruſhworth, Secre.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <head>A Copy of another Paper from the Army, concerning the Free-born People of England.</head>
+               <p>HIs Excellency Sir Thomas Fairfax hath writ to the parliament in t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e words, That all perſons impriſoned in England, or Dominion of Wales (not for Delinquenc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in relation to the late war) may be brought to a ſpeedy tryal, and if they appear wrong fully, or unduly impriſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned, they may have reputation according to their ſufferings. And in particular, it is deſired that this may be done in behalf of Lieutenant Col. Lil<g ref="char:EOLhyphen"/>burn, M. Musgrave, M. Overton, and others (in their condition) impriſoned about London.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb facs="tcp:110008:5"/>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>VPon the cloſe of this Letter, a Gentleman reſiding neer the Court, intimated unto me, that when His Majesties Children were at Cauſam, his Excellency Sir T. Fairfax came alſo <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hither, and preſenled himſelfe be<g ref="char:EOLhyphen"/>fore the two Dukes, and the Princeſſe; to whom the Duke of York made this enſuing Speech.</p>
+                     <q>
+                        <floatingText xml:lang="eng">
+                           <body>
+                              <div type="speech">
+                                 <opener>
+                                    <salute>Renowned Generall,</salute>
+                                 </opener>
+                                 <p>We heartily thank you for the great happineſse we now enjoy by the ſight of Our dear Father, the effecting wher<g ref="char:EOLhyphen"/>of, we cannot but attribute wholly to your induſtry and engagement; and as it is a great favour to Vs, ſo ſhall it be no prejudice to you: Pray accept of this Our ac<g ref="char:EOLhyphen"/>knowledgment, as the firſt part of requitall, being all we are able to do at preſent; but if ever it lyes in our po<g ref="char:EOLhyphen"/>wer, it ſhall <gap reason="illegible" extent="1 word">
+                                       <desc>〈◊〉</desc>
+                                    </gap> 
+                                    <gap reason="illegible" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>etter requited.</p>
+                                 <p>To which his Excellency replyed, That it was the leaſt of thoſe duties wherein he was obliged to ſerve his Ma<g ref="char:EOLhyphen"/>
+                                    <gap reason="illegible" extent="4 letters">
+                                       <desc>••••</desc>
+                                    </gap>, and his Royall Posterity.</p>
+                                 <p>But by reaſon of our motion Northward, I dare not detract too much time, but muſt of neceſsity draw to a period; only (in briefe) I ſhall give you ſome of the chief Heads concerning the Armies grand Declaration, now ſpeedil<gap reason="illegible" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap> 
+                                    <gap reason="illegible" extent="1 word">
+                                       <desc>〈◊〉</desc>
+                                    </gap> be preſented to both Houſes of Parliament, VIZ.
+<list>
+                                       <item>1. That a Councell of State conſiſting of 21. may have the ordering of the Militia, and power to treat with forraign States.</item>
+                                       <item>2. That a period be ſet to this Parla<g ref="char:EOLhyphen"/>ment.</item>
+                                       <item>3. That ſome penall Statutes be repealed.</item>
+                                       <item>4. An Act of Oblivion paſt, and the future Parliaments bien<g ref="char:EOLhyphen"/>nuall.</item>
+                                       <item>5. Something concerning the King, touching Par<g ref="char:EOLhyphen"/>liaments.</item>
+                                       <item>6. Concerning liberty of Conſcience.</item>
+                                    </list>
+                                 </p>
+                                 <p>Thus having given you a briefe account, I remain</p>
+                                 <closer>
+                                    <signed>Yours to ſerve you, William S<gap reason="illegible" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>n<gap reason="illegible" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>ers.</signed>
+                                    <dateline>Redding <date>22 of July 1947.</date>
+                                    </dateline>
+                                 </closer>
+                              </div>
+                           </body>
+                        </floatingText>
+                     </q>
+                  </body>
+               </floatingText>
+            </div>
+            <pb facs="tcp:110008:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
